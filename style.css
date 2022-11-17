@@ -1,0 +1,15 @@
+/* tag {
+  proprety: value;
+} */
+
+body {
+  background-color: #a65fcf;
+}
+
+h1 {
+  color: rgb(4, 66, 82); 
+  background-color: #9393ce;
+  text-align: center;
+  height: 100px;
+  line-height: 100px;
+}
